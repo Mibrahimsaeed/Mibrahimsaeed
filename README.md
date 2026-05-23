@@ -5,17 +5,15 @@ AI Engineer
 
 I design retrieval-augmented, agentic LLM workflows that turn manual processes into reliable automation systems. 
 
-<!--
-**Mibrahimsaeed/Mibrahimsaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](www.linkedin.com/in/muhammad-ibrahim-a787142bb)
 
-Here are some ideas to get you started:
+[![Email](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:mibrahimsaeed2@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>
+</a>
+
+<a href="mailto:you@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24"/>
+</a>
