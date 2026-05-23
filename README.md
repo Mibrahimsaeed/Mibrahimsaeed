@@ -1,7 +1,7 @@
 Hi, I'm Muhammad Ibrahim Saeed
-
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 AI Engineer
-
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
 I design retrieval-augmented, agentic LLM workflows that turn manual processes into reliable automation systems. 
 
